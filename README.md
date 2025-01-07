@@ -14,9 +14,7 @@ Looking to do some text processing with a tool like `awk`, but can't remember th
 
 [GitHub](https://github.com/ajbowen249/lait) [npm](https://www.npmjs.com/package/@ajbowen249/lait)
 
-### Tandy TRS-80 Model 100 and ZX Spectrum "Demake" of Baldur's Gate III
-
-> "This has got to be the best looking game possible on this platform, I think." Quinn Dunki on this project, [Retrocomputing Roundtable Podcast 279](https://rcrpodcast.com/2024/12/27/rcr-episode-279-a-spree-de-calc/)
+### Tandy TRS-80 Model 100 "Demake" of Baldur's Gate III
 
 ![recruit_party](https://github.com/ajbowen249/mol/raw/main/gh_media/recruit_demo.gif)
 
@@ -24,6 +22,9 @@ Want to play the latest popular RPG, but don't have a modern system? Well, I can
 
 
 [![making of video](https://img.youtube.com/vi/zW9-hpuNDQQ/0.jpg)](http://www.youtube.com/watch?v=zW9-hpuNDQQ)
+
+If your heart beats at 50hz, the ZX Spectrum build is now available:
+![speccy](https://github.com/ajbowen249/mol/raw/main/gh_media/zx_spectrum_demo.gif)
 
 If you'd like to make your own SRD-compatible game for these systems, I built the [Dungeon Delver Engine](https://github.com/ajbowen249/dungeon-delver-engine) as the basis for this and future projects.
 
