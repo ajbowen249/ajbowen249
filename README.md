@@ -29,4 +29,4 @@ If you'd like to make your own SRD-compatible game for these systems, I built th
 
 ![bleckers_screenshot](https://github.com/ajbowen249/Bleckers/raw/main/gh_media/screenshot.png)
 
-If you're looking for something simple, it doesn't get much simpler than Checkers! This was implemented to familiarize myself with [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor), .NET's reactive frontend library. Thanks to GitHub Pages, you can play a live build [right here](https://ajbowen249.github.io/Bleckers/).
+If you're looking for something simple, it doesn't get much simpler than Checkers! This was implemented to familiarize myself with [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor), the .NET reactive frontend library. Thanks to GitHub Pages, you can play a live build [right here](https://ajbowen249.github.io/Bleckers/).
