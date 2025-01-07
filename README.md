@@ -16,7 +16,7 @@ Looking to do some text processing with a tool like `awk`, but can't remember th
 
 ### Tandy TRS-80 Model 100 and ZX Spectrum "Demake" of Baldur's Gate III
 
-> "This has got to be the best looking game possible on this platform, I think." Quinn Dunki, [Retrocomputing Roundtable Podcast 279](https://rcrpodcast.com/2024/12/27/rcr-episode-279-a-spree-de-calc/)
+> "This has got to be the best looking game possible on this platform, I think." Quinn Dunki on this project, [Retrocomputing Roundtable Podcast 279](https://rcrpodcast.com/2024/12/27/rcr-episode-279-a-spree-de-calc/)
 
 ![recruit_party](https://github.com/ajbowen249/mol/raw/main/gh_media/recruit_demo.gif)
 
