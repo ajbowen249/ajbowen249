@@ -1,7 +1,5 @@
 # Alex Bowen
 
-Hello 👋
-
 I'm a full-stack developer with a wide array of interests, from games to embedded to web and mobile apps. Check out my full portfolio [here](https://ajbowen249.github.io/portfolio/)!
 
 ## Project Highlights
